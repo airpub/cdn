@@ -1,6 +1,4 @@
-# Airpub CDN 服务列表
-
-a collection of Airpub CDN service
+## Airpub CDN 服务列表
 
 ### 多说 CDN
 多说 CDN 提供 `.css` 和 `.js` CDN，也提供主题文件 CDN，我们推荐你使用多说 CDN 用以实现最快的静态资源加载速度
